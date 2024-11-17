@@ -14,4 +14,4 @@ print(areas);
 
 ## Resources
 出典：[気象庁ホームページ](https://www.jma.go.jp/jma/index.html)
-![banner_jma.gif](./assets/images/banner_jma.gif)
+![banner_jma.gif](https://www.jma.go.jp/jma/kishou/info/banner_jma.gif)
