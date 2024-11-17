@@ -1,3 +1,6 @@
-## 0.0.1
+# CHANGELOG
+## 0.0.2
+* Setting color config.
 
-* TODO: Describe initial release.
+## 0.0.1
+* Initial release.

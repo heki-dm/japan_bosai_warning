@@ -1,6 +1,6 @@
 name: japan_bosai_warning
 description: "Flutter plugin for disaster prevention information in Japan."
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/own-world-grp/japan_bosai_warning
 homepage: https://own-world-grp.net/
 
@@ -24,8 +24,6 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
-  assets:
-    - assets/images/
   # To add assets to your package, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
